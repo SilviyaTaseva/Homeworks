@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class TriangleArea {
     public static void main(String[]args){
-     //Triangle Area formula : S= square of p(p−a)(p−b)(p−c), where p = a+b+c/2
+     //Triangle Area formula : S= square root of p(p−a)(p−b)(p−c), where p = a+b+c/2
 
         Scanner ta = new Scanner(System.in);
         int A,B,C,p,triangleArea;
