@@ -1,7 +1,7 @@
 package homework_5;
 import com.sun.jdi.IntegerValue;
 
-import java.util.Scanner;
+
 import java.util.Arrays;
 public class Password {
 
