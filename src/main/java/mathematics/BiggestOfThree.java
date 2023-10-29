@@ -19,6 +19,5 @@ public class BiggestOfThree {
           num3 = num.nextInt();
 
         System.out.println(" The biggest one is : " + (Math.max(num1,Math.max(num2,num3))));
-
     }
 }
